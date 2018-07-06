@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SushiApp2</string>
+    <array name="testArray">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>fifth</item>
+    </array>
+</resources>
+
